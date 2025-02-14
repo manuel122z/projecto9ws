@@ -1,62 +1,35 @@
-[05:46:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:46:41] [ServerMain/INFO]: Loaded 7 recipes
-[05:46:42] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[05:46:42] [Server thread/INFO]: Loading properties
-[05:46:42] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[05:46:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:46:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:46:43] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[20:27:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:27:57] [ServerMain/INFO]: Loaded 7 recipes
+[20:27:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:27:58] [Server thread/INFO]: Loading properties
+[20:27:58] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[20:27:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:27:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:27:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[05:46:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[05:46:43] [Server thread/INFO]: Default game type: SURVIVAL
-[05:46:43] [Server thread/INFO]: Generating keypair
-[05:46:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:46:43] [Server thread/INFO]: Using epoll channel type
-[05:46:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:46:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[05:46:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:46:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:46:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:46:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:46:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:46:44] [Server thread/INFO]: Preparing level "world"
-[05:46:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:46:45] [Server thread/INFO]: Time elapsed: 279 ms
-[05:46:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:46:45] [Server thread/INFO]: Time elapsed: 83 ms
-[05:46:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:46:45] [Server thread/INFO]: Time elapsed: 79 ms
-[05:46:45] [Server thread/INFO]: Running delayed init tasks
-[05:46:45] [Server thread/INFO]: Done (2.867s)! For help, type "help"
-[05:46:45] [Server thread/INFO]: Timings Reset
-[05:47:10] [User Authenticator #0/INFO]: UUID of player miky is 3240bed7-a111-3c99-be5f-7340ba9d7c69
-[05:47:10] [Server thread/INFO]: miky joined the game
-[05:47:10] [Server thread/INFO]: miky[/127.223.33.5:39923] logged in with entity id 179 at ([world]230.89761583190054, 67.0, -227.30000001192093)
-[05:54:02] [User Authenticator #1/INFO]: UUID of player KurtD is d28d57fa-172e-35df-94f9-d88b612ee463
-[05:54:02] [Server thread/INFO]: KurtD joined the game
-[05:54:02] [Server thread/INFO]: KurtD[/127.230.228.104:42511] logged in with entity id 1057 at ([world]134.5, 63.0, -32.5)
-[05:54:41] [Server thread/INFO]: miky issued server command: /tp KurtD miky
-[05:54:41] [Server thread/INFO]: [miky: Teleported KurtD to miky]
-[05:55:40] [User Authenticator #2/INFO]: UUID of player MishaHD is e53d39ac-87b8-3bcd-b6d0-84ea69b321c7
-[05:55:40] [Server thread/INFO]: MishaHD joined the game
-[05:55:40] [Server thread/INFO]: MishaHD[/127.246.109.34:43503] logged in with entity id 1317 at ([world]119.5, 64.0, -26.5)
-[05:55:50] [Server thread/INFO]: miky issued server command: /tp MishaHD KurtD
-[05:55:50] [Server thread/INFO]: [miky: Teleported MishaHD to KurtD]
-[05:57:27] [Server thread/INFO]: miky has made the advancement [Monster Hunter]
-[05:58:47] [Server thread/INFO]: miky has made the advancement [Stone Age]
-[05:58:53] [Server thread/INFO]: KurtD discovered the floor was lava
-[05:59:12] [Server thread/INFO]: miky has made the advancement [Getting an Upgrade]
-[05:59:19] [Server thread/INFO]: MishaHD was shot by Skeleton
-[05:59:34] [Server thread/INFO]: miky fell from a high place
-[06:00:54] [Server thread/INFO]: miky issued server command: /time set daty
-[06:00:56] [Server thread/INFO]: miky issued server command: /time set day
-[06:00:56] [Server thread/INFO]: [miky: Set the time to 1000]
-[06:01:02] [Server thread/INFO]: KurtD has made the advancement [Stone Age]
-[06:01:14] [Server thread/INFO]: KurtD has made the advancement [Monster Hunter]
-[06:01:28] [Server thread/INFO]: MishaHD was slain by KurtD
-[06:02:21] [Server thread/INFO]: KurtD has made the advancement [Getting an Upgrade]
-[06:03:50] [Server thread/INFO]: KurtD has made the advancement [Acquire Hardware]
-[06:04:31] [Server thread/INFO]: KurtD has made the advancement [Isn't It Iron Pick]
-[06:06:05] [Server thread/INFO]: KurtD was slain by MishaHD
-[06:06:17] [Server thread/INFO]: MishaHD has made the advancement [Isn't It Iron Pick]
+[20:27:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:27:59] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:59] [Server thread/INFO]: Generating keypair
+[20:27:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:00] [Server thread/INFO]: Using epoll channel type
+[20:28:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:28:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:28:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:28:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:28:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:28:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:28:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:28:00] [Server thread/INFO]: Preparing level "world"
+[20:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:01] [Server thread/INFO]: Time elapsed: 282 ms
+[20:28:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:28:01] [Server thread/INFO]: Time elapsed: 134 ms
+[20:28:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:28:01] [Server thread/INFO]: Time elapsed: 94 ms
+[20:28:01] [Server thread/INFO]: Running delayed init tasks
+[20:28:01] [Server thread/INFO]: Done (3.002s)! For help, type "help"
+[20:28:01] [Server thread/INFO]: Timings Reset
+[20:33:54] [User Authenticator #0/INFO]: UUID of player miky is 3240bed7-a111-3c99-be5f-7340ba9d7c69
+[20:33:54] [Server thread/INFO]: miky joined the game
+[20:33:54] [Server thread/INFO]: miky[/127.223.33.5:40491] logged in with entity id 104 at ([world]123.79809156636327, 72.5, -697.6999999880791)
