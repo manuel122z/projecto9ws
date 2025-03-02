@@ -49,3 +49,16 @@
 [23:13:00] [Tuinity Chunk System Worker #0/ERROR]: Detected setBlock in a far chunk [29, 5], pos: BlockPosition{x=479, y=-6, z=92}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [23:13:31] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
 [23:13:31] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[23:16:09] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[23:16:09] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[23:16:49] [Server thread/INFO]: MALCANAKY has made the advancement [Sweet Dreams]
+[23:16:57] [Server thread/INFO]: Lee has made the advancement [Sweet Dreams]
+[23:17:18] [Server thread/INFO]: MALCANAKY was shot by Skeleton
+[23:17:22] [Server thread/INFO]: MALCANAKY has made the advancement [Monster Hunter]
+[23:20:43] [Server thread/INFO]: MALCANAKY has made the advancement [Getting an Upgrade]
+[23:22:43] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[23:22:43] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[23:24:29] [Server thread/WARN]: Boat (vehicle of MALCANAKY) moved wrongly! 4.271147470470192
+[23:30:02] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[23:30:02] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[23:32:48] [Server thread/WARN]: Boat (vehicle of MALCANAKY) moved wrongly! 1.8748275581477631
