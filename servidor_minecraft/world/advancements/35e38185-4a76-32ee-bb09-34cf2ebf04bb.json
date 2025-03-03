@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-03 00:17:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-03-02 23:20:34 +0000"
@@ -891,6 +897,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-02 23:28:52 +0000",
       "minecraft:spider": "2025-03-02 23:17:42 +0000",
+      "minecraft:creeper": "2025-03-03 00:14:36 +0000",
       "minecraft:zombie": "2025-03-02 23:11:59 +0000",
       "minecraft:drowned": "2025-03-02 23:42:36 +0000"
     },
@@ -977,6 +984,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-02 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-03 00:17:15 +0000"
     },
     "done": true
   },
