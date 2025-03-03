@@ -57,3 +57,13 @@ java.lang.ClassCastException: class net.minecraft.server.network.HandshakeListen
 [00:18:33] [Server thread/INFO]: MALCANAKY was blown up by Creeper
 [00:24:40] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
 [00:24:40] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:26:42] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:26:42] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:26:49] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:26:49] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:27:16] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:27:16] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:27:23] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:27:23] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:33:38] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[00:33:38] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
