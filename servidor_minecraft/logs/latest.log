@@ -47,3 +47,8 @@ java.lang.ClassCastException: class net.minecraft.server.network.HandshakeListen
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:10:47] [Server thread/WARN]: Lee moved too quickly! 5.256759339172731,0.7012968536522237,-8.783219862056285
+[00:14:14] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[00:14:14] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[00:14:41] [Server thread/INFO]: Lee was shot by Skeleton
+[00:14:43] [Server thread/INFO]: MALCANAKY has made the advancement [Not Today, Thank You]

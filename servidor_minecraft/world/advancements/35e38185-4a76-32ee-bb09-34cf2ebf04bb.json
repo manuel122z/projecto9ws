@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-03 00:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-02 23:32:51 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-03 00:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-03-02 23:10:57 +0000"
@@ -164,6 +176,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-02 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-03 00:06:23 +0000"
     },
     "done": true
   },
@@ -371,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-03 00:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:39:54 +0000"
@@ -539,9 +563,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-03 00:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-03 00:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-02 23:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-03-03 00:06:22 +0000"
     },
     "done": true
   },
@@ -991,6 +1033,7 @@
       "minecraft:old_growth_pine_taiga": "2025-03-02 23:44:09 +0000",
       "minecraft:taiga": "2025-03-02 23:11:44 +0000",
       "minecraft:deep_ocean": "2025-03-02 23:26:29 +0000",
+      "minecraft:frozen_river": "2025-03-03 00:06:43 +0000",
       "minecraft:sunflower_plains": "2025-03-02 23:30:32 +0000",
       "minecraft:birch_forest": "2025-03-02 23:19:59 +0000",
       "minecraft:beach": "2025-03-02 23:32:46 +0000",
@@ -1007,6 +1050,7 @@
       "minecraft:ocean": "2025-03-02 23:23:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-02 23:23:27 +0000",
       "minecraft:flower_forest": "2025-03-02 23:37:12 +0000",
+      "minecraft:meadow": "2025-03-03 00:04:08 +0000",
       "minecraft:savanna": "2025-03-02 23:27:20 +0000",
       "minecraft:plains": "2025-03-02 23:27:25 +0000"
     },
@@ -1114,9 +1158,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-03 00:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-02 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-03 00:06:23 +0000"
     },
     "done": true
   },
@@ -1151,6 +1207,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-02 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-03 00:06:23 +0000"
     },
     "done": true
   },
