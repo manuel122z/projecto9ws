@@ -67,3 +67,8 @@ java.lang.ClassCastException: class net.minecraft.server.network.HandshakeListen
 [00:27:23] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
 [00:33:38] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
 [00:33:38] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[00:37:11] [Server thread/INFO]: MALCANAKY was slain by Zombie
+[00:37:20] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[00:37:20] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[00:39:20] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[00:39:20] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
