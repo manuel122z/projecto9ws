@@ -74,3 +74,31 @@ java.lang.ClassCastException: class net.minecraft.server.network.HandshakeListen
 [00:39:20] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
 [00:50:15] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
 [00:50:15] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[00:55:42] [Server thread/INFO]: MALCANAKY was shot by Skeleton
+[00:56:21] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[00:56:21] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[00:56:40] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:56:40] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:56:50] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:56:50] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:57:12] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:57:12] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:57:31] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:57:31] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:57:33] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:57:33] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:57:37] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:57:37] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:57:44] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:57:44] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[00:59:08] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[00:59:08] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[01:00:35] [Server thread/WARN]: Lee was kicked for floating too long!
+[01:00:35] [Server thread/INFO]: Lee lost connection: Flying is not enabled on this server
+[01:00:35] [Server thread/INFO]: Lee left the game
+[01:00:40] [User Authenticator #1/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[01:00:40] [Server thread/INFO]: Lee joined the game
+[01:00:40] [Server thread/INFO]: Lee[/127.223.33.5:39651] logged in with entity id 50255 at ([world]-2328.9919936267806, 70.64916131183324, -3480.25943293716)
+[01:02:58] [Server thread/INFO]: MALCANAKY was burnt to a crisp whilst fighting Zombie
+[01:03:29] [Server thread/INFO]: Lee has made the advancement [Suit Up]
+[01:03:58] [Server thread/INFO]: MALCANAKY has made the advancement [Suit Up]
