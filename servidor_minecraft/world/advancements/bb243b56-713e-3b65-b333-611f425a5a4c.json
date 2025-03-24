@@ -15,6 +15,7 @@
       "minecraft:lukewarm_ocean": "2025-03-02 23:23:12 +0000",
       "minecraft:river": "2025-03-02 23:11:17 +0000",
       "minecraft:stony_shore": "2025-03-02 23:22:43 +0000",
+      "minecraft:snowy_plains": "2025-03-24 22:17:50 +0000",
       "minecraft:dripstone_caves": "2025-03-02 23:13:14 +0000",
       "minecraft:cold_ocean": "2025-03-02 23:40:06 +0000",
       "minecraft:forest": "2025-03-02 23:05:23 +0000",
@@ -611,6 +612,7 @@
       "cooked_beef": "2025-03-02 23:32:06 +0000",
       "apple": "2025-03-02 23:31:55 +0000",
       "mutton": "2025-03-02 23:59:02 +0000",
+      "bread": "2025-03-24 22:24:27 +0000",
       "cooked_chicken": "2025-03-24 21:28:11 +0000",
       "carrot": "2025-03-24 22:01:26 +0000"
     },
@@ -1522,9 +1524,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-24 22:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-03-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-24 22:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-24 22:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-24 22:22:29 +0000"
     },
     "done": true
   },
@@ -1549,6 +1575,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-24 22:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-24 22:22:29 +0000"
     },
     "done": true
   },

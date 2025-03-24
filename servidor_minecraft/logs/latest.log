@@ -66,3 +66,23 @@
 [22:10:54] [Server thread/INFO]: [Lee: Teleported Lee to -3898.500000, 77.000000, -2550.500000]
 [22:13:09] [Server thread/INFO]: Lee has made the advancement [Ice Bucket Challenge]
 [22:14:05] [Server thread/INFO]: MALCANAKY has made the advancement [A Seedy Place]
+[22:15:09] [Server thread/INFO]: Villager EntityVillager['Villager'/29734, uuid='fd0b07d4-f158-453d-9266-654bc2310cee', l='ServerLevel[world]', x=-4647.37, y=82.00, z=-1922.72, cpos=[-291, -121], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[22:15:26] [Server thread/INFO]: Villager EntityVillager['Villager'/29951, uuid='587c3f8f-3f51-46d0-9817-9ea77ad6fe20', l='ServerLevel[world]', x=-4658.28, y=33.00, z=-1885.37, cpos=[-292, -118], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[22:16:26] [Server thread/INFO]: Villager EntityVillager['Villager'/29796, uuid='06987212-7018-4f09-9fd9-ede6f51c531a', l='ServerLevel[world]', x=-4656.33, y=81.56, z=-1946.95, cpos=[-292, -122], tl=1665, v=true] died, message: 'Villager was slain by Zombie'
+[22:16:41] [Server thread/INFO]: Villager EntityVillager['Villager'/29676, uuid='6dea1fac-552e-4566-96c2-0991d162f04a', l='ServerLevel[world]', x=-4653.54, y=80.50, z=-1945.18, cpos=[-291, -122], tl=2080, v=true] died, message: 'Villager was slain by Zombie'
+[22:17:49] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[22:17:49] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[22:18:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.8136681360677144
+[22:25:13] [Server thread/INFO]: MALCANAKY hit the ground too hard
+[22:26:27] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[22:26:27] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[22:27:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Lee> miky_33z
+[22:27:40] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY -2323 70 -3474
+[22:27:40] [Server thread/INFO]: [Lee: Teleported MALCANAKY to -2322.500000, 70.000000, -3473.500000]
+[22:29:07] [Async Chat Thread - #6/INFO]: [Not Secure] <MALCANAKY> no
+[22:29:15] [Async Chat Thread - #7/INFO]: [Not Secure] <MALCANAKY> maldito
+[22:29:33] [Async Chat Thread - #6/INFO]: [Not Secure] <MALCANAKY> es mi hijo salio de mi puchaina
+[22:31:13] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[22:31:13] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[22:34:57] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY -2323 70 -3474
+[22:34:57] [Server thread/INFO]: [Lee: Teleported MALCANAKY to -2322.500000, 70.000000, -3473.500000]
