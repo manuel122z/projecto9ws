@@ -490,6 +490,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-02 23:17:22 +0000",
       "minecraft:spider": "2025-03-03 00:40:45 +0000",
+      "minecraft:enderman": "2025-03-24 21:53:02 +0000",
       "minecraft:zombie": "2025-03-02 23:28:59 +0000"
     },
     "done": false
@@ -610,7 +611,8 @@
       "cooked_beef": "2025-03-02 23:32:06 +0000",
       "apple": "2025-03-02 23:31:55 +0000",
       "mutton": "2025-03-02 23:59:02 +0000",
-      "cooked_chicken": "2025-03-24 21:28:11 +0000"
+      "cooked_chicken": "2025-03-24 21:28:11 +0000",
+      "carrot": "2025-03-24 22:01:26 +0000"
     },
     "done": false
   },
@@ -1502,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-24 22:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-24 21:28:50 +0000"
@@ -1511,6 +1519,24 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-24 21:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-24 22:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-24 22:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-24 22:01:53 +0000"
     },
     "done": true
   },
