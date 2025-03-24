@@ -130,3 +130,10 @@
 [22:51:26] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
 [22:55:32] [Server thread/INFO]: Lee issued server command: /effect give Lee minecraft:absorption 300
 [22:55:32] [Server thread/INFO]: [Lee: Applied effect Absorption to Lee]
+[22:56:12] [Server thread/INFO]: Lee issued server command: /effect give Lee minecraft:water_breathing 300
+[22:56:12] [Server thread/INFO]: [Lee: Applied effect Water Breathing to Lee]
+[23:02:02] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.28051525526007026
+[23:02:02] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.6081012264139645
+[23:02:02] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.9381084970598066
+[23:02:02] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.3157229528737844
+[23:02:02] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.584307249710946

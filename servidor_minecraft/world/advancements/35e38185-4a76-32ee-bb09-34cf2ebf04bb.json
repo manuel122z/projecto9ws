@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-24 23:00:15 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-02 23:44:09 +0000",
       "minecraft:mushroom_fields": "2025-03-24 22:07:36 +0000",
       "minecraft:taiga": "2025-03-02 23:11:44 +0000",
@@ -21,6 +22,7 @@
       "minecraft:stony_shore": "2025-03-02 23:22:32 +0000",
       "minecraft:dripstone_caves": "2025-03-02 23:19:07 +0000",
       "minecraft:snowy_taiga": "2025-03-24 22:15:04 +0000",
+      "minecraft:grove": "2025-03-24 23:01:03 +0000",
       "minecraft:cold_ocean": "2025-03-02 23:39:45 +0000",
       "minecraft:forest": "2025-03-02 23:05:32 +0000",
       "minecraft:deep_cold_ocean": "2025-03-02 23:41:39 +0000",
