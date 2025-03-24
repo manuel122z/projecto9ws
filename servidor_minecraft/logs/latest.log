@@ -141,3 +141,4 @@
 [23:10:03] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.27563109416587395
 [23:10:03] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.5606063686345806
 [23:10:03] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.8460889814286929
+[23:20:03] [Server thread/INFO]: Villager EntityVillager['Villager'/43318, uuid='b9617165-746a-4afd-845f-720ad2d94e6c', l='ServerLevel[world]', x=-5714.58, y=65.92, z=274.49, cpos=[-358, 17], tl=47232, v=true] died, message: 'Villager was slain by Zombie'
