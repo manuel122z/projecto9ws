@@ -86,3 +86,11 @@
 [22:31:13] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
 [22:34:57] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY -2323 70 -3474
 [22:34:57] [Server thread/INFO]: [Lee: Teleported MALCANAKY to -2322.500000, 70.000000, -3473.500000]
+[22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.29140845249821723
+[22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.5
+[22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.5
+[22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.5
+[22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.46388404948538664
+[22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.38475720459337026
+[22:43:37] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[22:43:37] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
