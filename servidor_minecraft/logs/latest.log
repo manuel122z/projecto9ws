@@ -142,3 +142,19 @@
 [23:10:03] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.5606063686345806
 [23:10:03] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.8460889814286929
 [23:20:03] [Server thread/INFO]: Villager EntityVillager['Villager'/43318, uuid='b9617165-746a-4afd-845f-720ad2d94e6c', l='ServerLevel[world]', x=-5714.58, y=65.92, z=274.49, cpos=[-358, 17], tl=47232, v=true] died, message: 'Villager was slain by Zombie'
+[23:27:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Lee> 5725 95 296
+[23:27:21] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[23:27:21] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[23:27:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Lee> xd
+[23:28:05] [Server thread/INFO]: MALCANAKY was slain by Enderman
+[23:28:12] [Server thread/INFO]: MALCANAKY was blown up by Creeper
+[23:33:53] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[23:33:53] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[23:35:21] [Server thread/INFO]: Lee issued server command: /tp Lee -5725 95 296
+[23:35:21] [Server thread/INFO]: [Lee: Teleported Lee to -5724.500000, 95.000000, 296.500000]
+[23:39:54] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[23:39:54] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[23:42:37] [Server thread/INFO]: Lee issued server command: /tp Lee -5725 95 296
+[23:42:37] [Server thread/INFO]: [Lee: Teleported Lee to -5724.500000, 95.000000, 296.500000]
+[23:42:42] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[23:42:42] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
