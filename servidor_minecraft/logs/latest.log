@@ -1,110 +1,39 @@
-[00:00:22] [Server thread/INFO]: Lee has made the advancement [Isn't It Iron Pick]
-[00:00:56] [Netty Epoll Server IO #3/ERROR]: Received class net.minecraft.network.protocol.game.PacketPlayInTeleportAccept that couldn't be processed
-java.lang.ClassCastException: class net.minecraft.server.network.HandshakeListener cannot be cast to class net.minecraft.network.protocol.game.PacketListenerPlayIn (net.minecraft.server.network.HandshakeListener and net.minecraft.network.protocol.game.PacketListenerPlayIn are in unnamed module of loader java.net.URLClassLoader @25f38edc)
-	at net.minecraft.network.protocol.game.ServerboundAcceptTeleportationPacket.a(ServerboundAcceptTeleportationPacket.java:10) ~[?:?]
-	at net.minecraft.network.Connection.genericsFtw(Connection.java:324) ~[?:?]
-	at net.minecraft.network.Connection.channelRead0(Connection.java:308) ~[?:?]
-	at net.minecraft.network.Connection.channelRead0(Connection.java:51) ~[?:?]
-	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:454) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:122) ~[?:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.handler.flush.FlushConsolidationHandler.channelRead(FlushConsolidationHandler.java:152) ~[netty-handler-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:10:47] [Server thread/WARN]: Lee moved too quickly! 5.256759339172731,0.7012968536522237,-8.783219862056285
-[00:14:14] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
-[00:14:14] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
-[00:14:41] [Server thread/INFO]: Lee was shot by Skeleton
-[00:14:43] [Server thread/INFO]: MALCANAKY has made the advancement [Not Today, Thank You]
-[00:17:06] [Server thread/INFO]: MALCANAKY was shot by Skeleton
-[00:17:11] [Server thread/INFO]: Lee has made the advancement [Not Today, Thank You]
-[00:18:33] [Server thread/INFO]: MALCANAKY was blown up by Creeper
-[00:24:40] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:24:40] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:26:42] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:26:42] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:26:49] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:26:49] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:27:16] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:27:16] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:27:23] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:27:23] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:33:38] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
-[00:33:38] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
-[00:37:11] [Server thread/INFO]: MALCANAKY was slain by Zombie
-[00:37:20] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
-[00:37:20] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
-[00:39:20] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
-[00:39:20] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
-[00:50:15] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
-[00:50:15] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
-[00:55:42] [Server thread/INFO]: MALCANAKY was shot by Skeleton
-[00:56:21] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
-[00:56:21] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
-[00:56:40] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:56:40] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:56:50] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:56:50] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:57:12] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:57:12] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:57:31] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:57:31] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:57:33] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:57:33] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:57:37] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:57:37] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:57:44] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:57:44] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[00:59:08] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
-[00:59:08] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
-[01:00:35] [Server thread/WARN]: Lee was kicked for floating too long!
-[01:00:35] [Server thread/INFO]: Lee lost connection: Flying is not enabled on this server
-[01:00:35] [Server thread/INFO]: Lee left the game
-[01:00:40] [User Authenticator #1/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
-[01:00:40] [Server thread/INFO]: Lee joined the game
-[01:00:40] [Server thread/INFO]: Lee[/127.223.33.5:39651] logged in with entity id 50255 at ([world]-2328.9919936267806, 70.64916131183324, -3480.25943293716)
-[01:02:58] [Server thread/INFO]: MALCANAKY was burnt to a crisp whilst fighting Zombie
-[01:03:29] [Server thread/INFO]: Lee has made the advancement [Suit Up]
-[01:03:58] [Server thread/INFO]: MALCANAKY has made the advancement [Suit Up]
-[01:34:41] [Server thread/INFO]: MALCANAKY has made the advancement [Acquire Hardware]
-[01:34:52] [Server thread/INFO]: MALCANAKY has made the advancement [Isn't It Iron Pick]
-[01:49:28] [Server thread/INFO]: Lee lost connection: Disconnected
-[01:49:28] [Server thread/INFO]: Lee left the game
-[01:49:28] [Server thread/INFO]: MALCANAKY lost connection: Disconnected
-[01:49:28] [Server thread/INFO]: MALCANAKY left the game
+[21:14:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:14:18] [ServerMain/INFO]: Loaded 7 recipes
+[21:14:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:14:18] [Server thread/INFO]: Loading properties
+[21:14:18] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[21:14:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:14:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:14:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[21:14:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:14:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:14:20] [Server thread/INFO]: Generating keypair
+[21:14:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:14:20] [Server thread/INFO]: Using epoll channel type
+[21:14:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:14:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:14:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:14:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:14:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:14:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:14:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:14:20] [Server thread/INFO]: Preparing level "world"
+[21:14:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:14:21] [Server thread/INFO]: Time elapsed: 436 ms
+[21:14:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:14:21] [Server thread/INFO]: Time elapsed: 75 ms
+[21:14:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:14:21] [Server thread/INFO]: Time elapsed: 47 ms
+[21:14:21] [Server thread/INFO]: Running delayed init tasks
+[21:14:21] [Server thread/INFO]: Done (3.096s)! For help, type "help"
+[21:14:21] [Server thread/INFO]: Timings Reset
+[21:14:38] [User Authenticator #0/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[21:14:38] [Server thread/INFO]: Lee joined the game
+[21:14:38] [Server thread/INFO]: Lee[/127.231.97.252:44075] logged in with entity id 136 at ([world]-2321.22917678457, 70.0, -3467.9801650668537)
+[21:14:50] [User Authenticator #0/INFO]: UUID of player MALCANAKY is bb243b56-713e-3b65-b333-611f425a5a4c
+[21:14:50] [Server thread/INFO]: MALCANAKY joined the game
+[21:14:50] [Server thread/INFO]: MALCANAKY[/127.138.47.232:40885] logged in with entity id 362 at ([world]-2321.742531201487, 70.0, -3469.091003308414)
+[21:22:42] [Server thread/INFO]: MALCANAKY was slain by Zombie
