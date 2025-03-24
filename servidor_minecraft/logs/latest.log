@@ -94,3 +94,39 @@
 [22:42:33] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.38475720459337026
 [22:43:37] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
 [22:43:37] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[22:46:58] [Server thread/INFO]: MALCANAKY has made the advancement [Best Friends Forever]
+[22:49:02] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:49:02] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:49:13] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:49:13] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:49:28] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:49:28] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:49:31] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:49:31] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:49:39] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:49:39] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:49:46] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:49:46] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:49:47] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:49:47] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:49:55] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:49:55] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:50:00] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:50:00] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:50:12] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:50:12] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:50:25] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:50:25] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:50:42] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:50:42] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:50:46] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:50:46] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:50:55] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:50:55] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:51:05] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:51:05] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:51:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Lee> -5726 95 289
+[22:51:26] [Server thread/INFO]: Lee issued server command: /tp Lee -2323 70 -3474
+[22:51:26] [Server thread/INFO]: [Lee: Teleported Lee to -2322.500000, 70.000000, -3473.500000]
+[22:55:32] [Server thread/INFO]: Lee issued server command: /effect give Lee minecraft:absorption 300
+[22:55:32] [Server thread/INFO]: [Lee: Applied effect Absorption to Lee]
