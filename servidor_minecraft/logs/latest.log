@@ -56,3 +56,13 @@
 [21:59:54] [Server thread/INFO]: MALCANAKY was slain by Zombie
 [22:02:36] [Server thread/INFO]: MALCANAKY was blown up by Creeper
 [22:03:52] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 0.4196000156734996
+[22:05:24] [Server thread/WARN]: Skeleton Horse (vehicle of Lee) moved wrongly! 1.405483053530193
+[22:10:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Lee> -3899 77 -2551
+[22:10:22] [Server thread/INFO]: Lee issued server command: /tp -3899 77 -2551
+[22:10:22] [Server thread/INFO]: [Lee: Teleported Lee to -3898.500000, 77.000000, -2550.500000]
+[22:10:33] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[22:10:33] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[22:10:54] [Server thread/INFO]: Lee issued server command: /tp -3899 77 -2551
+[22:10:54] [Server thread/INFO]: [Lee: Teleported Lee to -3898.500000, 77.000000, -2550.500000]
+[22:13:09] [Server thread/INFO]: Lee has made the advancement [Ice Bucket Challenge]
+[22:14:05] [Server thread/INFO]: MALCANAKY has made the advancement [A Seedy Place]
