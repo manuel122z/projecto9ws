@@ -163,3 +163,9 @@
 [23:56:00] [Server thread/INFO]: Villager EntityVillager['Villager'/43248, uuid='e0bebb69-5164-4e74-9409-ccb96d021684', l='ServerLevel[world]', x=-5725.58, y=70.90, z=244.18, cpos=[-358, 15], tl=85453, v=true] died, message: 'Villager was slain by Zombie'
 [23:56:06] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/43250, uuid='8ff640e0-4eec-41de-a1b0-19c811c2ac4a', l='ServerLevel[world]', x=-5728.55, y=70.90, z=243.72, cpos=[-359, 15], tl=85417, v=true] died, message: 'Leatherworker was slain by Zombie'
 [23:56:39] [Server thread/INFO]: Lee was shot by Skeleton
+[23:58:55] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[23:58:55] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
+[23:58:58] [Server thread/INFO]: Lee issued server command: /tp Lee -5725 95 296
+[23:58:58] [Server thread/INFO]: [Lee: Teleported Lee to -5724.500000, 95.000000, 296.500000]
+[23:59:05] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[23:59:05] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
