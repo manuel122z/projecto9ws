@@ -39,3 +39,8 @@
 [22:49:56] [Server thread/INFO]: MALCANAKY was blown up by Creeper
 [22:56:38] [Server thread/INFO]: Lee was slain by Iron Golem
 [22:59:29] [Server thread/INFO]: MALCANAKY was blown up by Creeper
+[23:12:43] [Server thread/INFO]: Lee lost connection: Disconnected
+[23:12:43] [Server thread/INFO]: Lee left the game
+[23:12:49] [User Authenticator #1/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[23:12:49] [Server thread/INFO]: Lee joined the game
+[23:12:49] [Server thread/INFO]: Lee[/127.231.97.252:34443] logged in with entity id 9201 at ([world]-5762.595675837123, 70.0, 349.3205708368321)
