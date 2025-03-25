@@ -44,3 +44,42 @@
 [23:12:49] [User Authenticator #1/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
 [23:12:49] [Server thread/INFO]: Lee joined the game
 [23:12:49] [Server thread/INFO]: Lee[/127.231.97.252:34443] logged in with entity id 9201 at ([world]-5762.595675837123, 70.0, 349.3205708368321)
+[23:21:50] [Server thread/INFO]: Lee was blown up by Creeper
+[23:22:47] [Async Chat Thread - #1/INFO]: [Not Secure] <MALCANAKY> A
+[23:22:52] [Server thread/INFO]: Teleported MALCANAKY to Lee
+[23:22:59] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[23:22:59] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[23:25:11] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY 5700 80 246
+[23:25:13] [Server thread/INFO]: [Lee: Teleported MALCANAKY to 5700.500000, 80.000000, 246.500000]
+[23:25:19] [Server thread/INFO]: MALCANAKY suffocated in a wall
+[23:25:19] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY -5700 80 246
+[23:25:19] [Server thread/INFO]: [Lee: Teleported MALCANAKY to -5699.500000, 80.000000, 246.500000]
+[23:25:53] [Server thread/INFO]: Lee issued server command: /tp Lee 5700 80 246
+[23:25:53] [Server thread/INFO]: [Lee: Teleported Lee to 5700.500000, 80.000000, 246.500000]
+[23:26:07] [Server thread/INFO]: Lee suffocated in a wall
+[23:26:20] [Server thread/INFO]: Lee issued server command: /gamemode spectator
+[23:26:20] [Server thread/INFO]: [Lee: Set own game mode to Spectator Mode]
+[23:26:22] [Server thread/INFO]: Lee issued server command: /tp Lee 5700 80 246
+[23:26:22] [Server thread/INFO]: [Lee: Teleported Lee to 5700.500000, 80.000000, 246.500000]
+[23:26:34] [Server thread/INFO]: Lee issued server command: /gamemode survival
+[23:26:34] [Server thread/INFO]: [Lee: Set own game mode to Survival Mode]
+[23:26:46] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[23:26:46] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[23:27:00] [Server thread/INFO]: Lee issued server command: /gamemode spectator
+[23:27:00] [Server thread/INFO]: [Lee: Set own game mode to Spectator Mode]
+[23:27:02] [Server thread/INFO]: Lee issued server command: /tp Lee 5700 80 246
+[23:27:02] [Server thread/INFO]: [Lee: Teleported Lee to 5700.500000, 80.000000, 246.500000]
+[23:27:11] [Server thread/INFO]: Lee issued server command: /gamemode creative
+[23:27:11] [Server thread/INFO]: [Lee: Set own game mode to Creative Mode]
+[23:27:29] [Server thread/INFO]: Lee issued server command: /gamemode survival
+[23:27:29] [Server thread/INFO]: [Lee: Set own game mode to Survival Mode]
+[23:27:39] [Server thread/INFO]: Lee issued server command: /gamemode spectator
+[23:27:39] [Server thread/INFO]: [Lee: Set own game mode to Spectator Mode]
+[23:27:57] [Server thread/INFO]: Lee issued server command: /gamemode adventure
+[23:27:57] [Server thread/INFO]: [Lee: Set own game mode to Adventure Mode]
+[23:28:02] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[23:28:02] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[23:28:32] [Server thread/INFO]: MALCANAKY lost connection: Disconnected
+[23:28:32] [Server thread/INFO]: MALCANAKY left the game
+[23:28:33] [Server thread/INFO]: Lee lost connection: Disconnected
+[23:28:33] [Server thread/INFO]: Lee left the game
