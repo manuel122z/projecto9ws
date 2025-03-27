@@ -38,3 +38,8 @@
 [15:29:02] [Server thread/INFO]: Lee[/127.231.97.252:39031] logged in with entity id 514 at ([world]-5739.802336645903, 95.0, 306.3610609649915)
 [15:31:47] [Server thread/INFO]: Lee issued server command: /gamemode survival
 [15:31:47] [Server thread/INFO]: [Lee: Set own game mode to Survival Mode]
+[15:43:09] [Server thread/INFO]: Lee issued server command: /gamemode adventure
+[15:43:09] [Server thread/INFO]: [Lee: Set own game mode to Adventure Mode]
+[15:43:12] [Server thread/INFO]: Lee issued server command: /gamemode survival
+[15:43:12] [Server thread/INFO]: [Lee: Set own game mode to Survival Mode]
+[15:46:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Lee> 33 -5
