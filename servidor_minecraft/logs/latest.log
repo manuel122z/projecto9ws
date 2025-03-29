@@ -42,3 +42,6 @@
 [01:10:45] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
 [01:20:32] [Server thread/INFO]: Lee has made the advancement [We Need to Go Deeper]
 [01:20:49] [Async Chat Thread - #1/INFO]: [Not Secure] <Lee> -729 89 25
+[01:27:54] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[01:27:54] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[01:30:58] [Server thread/INFO]: MALCANAKY has made the advancement [We Need to Go Deeper]
