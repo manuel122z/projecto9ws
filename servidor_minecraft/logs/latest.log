@@ -36,3 +36,7 @@
 [00:48:07] [User Authenticator #1/INFO]: UUID of player MALCANAKY is bb243b56-713e-3b65-b333-611f425a5a4c
 [00:48:07] [Server thread/INFO]: MALCANAKY joined the game
 [00:48:07] [Server thread/INFO]: MALCANAKY[/127.138.47.232:48689] logged in with entity id 588 at ([world]-5693.8688958644425, 87.0, 264.1277046407939)
+[01:07:26] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY
+[01:07:26] [Server thread/INFO]: [Lee: Teleported Lee to MALCANAKY]
+[01:10:45] [Server thread/INFO]: Lee issued server command: /tp MALCANAKY Lee
+[01:10:45] [Server thread/INFO]: [Lee: Teleported MALCANAKY to Lee]
