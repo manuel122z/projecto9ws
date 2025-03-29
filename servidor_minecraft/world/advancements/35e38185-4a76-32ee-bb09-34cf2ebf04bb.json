@@ -2405,6 +2405,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-27 16:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-27 16:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-27 16:54:55 +0000"
@@ -2465,12 +2477,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-03-27 16:51:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-27 16:54:55 +0000"
@@ -2501,15 +2507,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-27 16:24:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-27 16:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-03-27 17:09:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-27 17:09:29 +0000"
     },
     "done": true
   },
