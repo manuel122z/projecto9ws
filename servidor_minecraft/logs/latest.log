@@ -75,3 +75,11 @@
 [01:07:19] [Server thread/INFO]: Miky issued server command: /tpaccept
 [01:07:39] [Server thread/INFO]: Tamal issued server command: /tpa Miky
 [01:07:40] [Server thread/INFO]: Miky issued server command: /tpaccept
+[01:17:29] [User Authenticator #2/INFO]: UUID of player Kurt1994 is 90b76c9c-5afa-3395-a411-ca693645a9d8
+[01:17:29] [Server thread/INFO]: Kurt1994 joined the game
+[01:17:29] [Server thread/INFO]: Kurt1994[/127.1.124.107:48893] logged in with entity id 20552 at ([world]-2642.6215251742865, 64.0, 1475.300000011921)
+[01:19:59] [Server thread/INFO]: Tamal lost connection: Disconnected
+[01:19:59] [Server thread/INFO]: Tamal left the game
+[01:22:01] [Server thread/INFO]: Miky was slain by Iron Golem
+[01:22:11] [Server thread/INFO]: Miky issued server command: /back
+[01:22:41] [Server thread/INFO]: Kurt1994 has made the advancement [Diamonds!]
