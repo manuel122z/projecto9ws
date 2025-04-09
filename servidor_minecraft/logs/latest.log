@@ -101,3 +101,19 @@
 [01:53:45] [Server thread/INFO]: Kurt1994 lost connection: Disconnected
 [01:53:45] [Server thread/INFO]: Kurt1994 left the game
 [02:06:51] [Server thread/INFO]: Miky was slain by Zombie
+[02:22:16] [Server thread/INFO]: Miky was slain by Iron Golem
+[02:22:16] [User Authenticator #4/INFO]: UUID of player Cykes8237 is 7506a762-37d9-3e82-84b1-acee910f773f
+[02:22:16] [Server thread/INFO]: Cykes8237 joined the game
+[02:22:16] [Server thread/INFO]: Cykes8237[/127.200.50.144:51921] logged in with entity id 54207 at ([world]-89.5, 71.0, -57.5)
+[02:22:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Cykes8237> gey
+[02:22:28] [Server thread/INFO]: Miky was slain by Iron Golem
+[02:22:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Miky> V
+[02:22:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Cykes8237> XDDDDDD
+[02:22:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Cykes8237> tpeame
+[02:22:42] [Server thread/INFO]: Miky issued server command: /tp Cykes8237 Miky
+[02:22:42] [Server thread/INFO]: [Miky: Teleported Cykes8237 to Miky]
+[02:23:00] [Server thread/INFO]: Cykes8237 lost connection: Disconnected
+[02:23:00] [Server thread/INFO]: Cykes8237 left the game
+[02:23:19] [User Authenticator #5/INFO]: UUID of player Cykes8237 is 7506a762-37d9-3e82-84b1-acee910f773f
+[02:23:19] [Server thread/INFO]: Cykes8237 joined the game
+[02:23:19] [Server thread/INFO]: Cykes8237[/127.200.50.144:59481] logged in with entity id 54917 at ([world]-2637.9118031791068, 64.875, 1476.828354055384)
