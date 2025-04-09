@@ -519,6 +519,7 @@
       "minecraft:skeleton": "2025-04-08 01:10:45 +0000",
       "minecraft:spider": "2025-04-09 01:30:57 +0000",
       "minecraft:creeper": "2025-04-08 01:51:27 +0000",
+      "minecraft:enderman": "2025-04-09 02:08:03 +0000",
       "minecraft:zombie": "2025-04-08 01:24:31 +0000"
     },
     "done": false
@@ -1477,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-09 02:01:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-09 01:30:58 +0000"
@@ -1582,6 +1589,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-09 01:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-09 02:01:51 +0000"
     },
     "done": true
   },
